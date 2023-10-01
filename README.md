@@ -57,9 +57,3 @@ Attach the scripts to relevant GameObjects in your scene.
 Customize the game's appearance and behavior using Unity's Inspector.
 
 Run the game in the Unity editor or build and deploy it to your desired platform.
-
-Contributing
-Feel free to contribute to the project by enhancing the gameplay, adding new features, or improving the codebase.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
