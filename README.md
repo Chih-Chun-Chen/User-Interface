@@ -57,4 +57,4 @@ This repository contains the scripts for a simple target shooting game developed
 
 
 ![Example Image](./Pic/ScreenTitle.png)
-![Example Image](./Pic/MainGame.png)
+![Example Image](./Pic/mainGame.png)
