@@ -54,3 +54,6 @@ This repository contains the scripts for a simple target shooting game developed
 2. Attach the scripts to relevant GameObjects in your scene.
 3. Customize the game's appearance and behavior using Unity's Inspector.
 4. Run the game in the Unity editor or build and deploy it to your desired platform.
+
+
+![Example Image](./Pic/ScreenTitle.png)
